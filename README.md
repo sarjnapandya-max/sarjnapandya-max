@@ -15,7 +15,7 @@
 
 ## About me
 
-I'm a final-year B.Tech IT student building full-stack and cloud projects with a strong focus on **security**. My latest project uses zero-knowledge architecture — the server literally cannot read your files. I implemented AES-256 client-side encryption, PBKDF2 key derivation, and validated the system against NIST standards using the STRIDE threat model.
+I recently completed my B.Tech in IT. I am building full-stack and cloud projects with a strong focus on **security**. My latest project uses zero-knowledge architecture — the server literally cannot read your files. I implemented AES-256 client-side encryption, PBKDF2 key derivation, and validated the system against NIST standards using the STRIDE threat model.
 
 I'm actively looking for entry-level roles or internships in **Python backend**, **MERN stack**, or **cloud development**.
 
@@ -101,8 +101,6 @@ Cloud platform to securely push software/firmware updates to remote devices — 
 
 ## Currently
 
-- 🔨 Improving the Secure Vault — adding better share link UX and security documentation
-- 📖 Learning Docker, REST API design, and CI/CD pipelines
 - 🤝 Open to internships and fresher roles in Python / MERN / Cloud
 
 ---
